@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello 👋
+
+Architecture + Art + Programming = ❤️
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,js,html,css,svelte,python,flutter,rust,ps,ai,blender,sketchup,threejs)](https://skillicons.dev)
 
 <!--
 **temeddix/temeddix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
