@@ -2,6 +2,7 @@ Architecture + Art + Programming = ❤️
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,js,ts,html,css,nodejs,svelte,vite,azure,python,cs,flutter,rust,ps,ai,blender,sketchup,threejs)](https://skillicons.dev)
 
+- 🌎 Seoul, South Korea
 - 📫 How to reach me: temeddix@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ I'm learning everything on my own, interacting with other repo owners. Always open to discussions and criticisms.
