@@ -5,7 +5,7 @@ Architecture + Art + Programming = ❤️
 - 🌎 Seoul, South Korea
 - 📫 How to reach me: temeddix@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ I'm learning everything on my own, interacting with other repo owners. Always open to discussions and criticisms.
+- ⚡ Always open to discussions
 
 My major is Architecture, but I strongly believe that the modern world can benefit from increased automation, enhancing both quality of life and product development. That's why I am diving into programming, hoping to discover an intersection between these fields where I can contribute to propelling the industry forward.
 
