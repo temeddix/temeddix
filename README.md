@@ -1,5 +1,6 @@
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,js,ts,html,css,nodejs,svelte,vite,azure,python,cs,flutter,rust,ps,ai,blender,sketchup,threejs,aws,mysql,django,docker)](https://skillicons.dev)
 
+- 🪪 Donghyun Kim
 - 🌎 Seoul, South Korea
 - 📫 Reach me at temeddix@gmail.com
 - 😄 Pronouns are he/him
