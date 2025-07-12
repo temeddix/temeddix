@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,js,ts,html,css,nodejs,svelte,vite,azure,python,cs,flutter,rust,ps,ai,blender,sketchup,threejs,aws,postgres,django,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,js,ts,html,css,nodejs,svelte,vite,azure,python,cs,flutter,rust,ps,ai,blender,sketchup,threejs,aws,postgres,django,docker,java,spring)](https://skillicons.dev)
 
 - 🪪 Native name is Donghyun Kim
 - 🌎 Seoul, South Korea
